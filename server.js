@@ -29,7 +29,7 @@ app.post('/login', (req, res) => {
     const password = req.body.password
 
     if (username === 'admin' && password === "admin") {
-        const signedToken = jwt.sign({ username: req.body.username }, 'METAXIMAS-TSIPOU-RA-DIKO');
+        const signedToken = jwt.sign({ username: req.body.username }, env.secret);
         res.send({ signedToken });
     } else {
         res.status(401).send('Wrong');
@@ -40,7 +40,7 @@ app.post('/login', (req, res) => {
 
 app.post('/data', (req, res) => {
     let signedToken = req.header("Authorization");
-    const decoded = jwt.verify(signedToken, 'METAXIMAS-TSIPOU-RA-DIKO');
+    const decoded = jwt.verify(signedToken, env.secret);
     let data = JSON.stringify(req.body.data, null, 2);
     const filePath = './data.json';
     dataJson = data;
