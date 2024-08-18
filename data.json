@@ -1,0 +1,345 @@
+{
+  "Salad": {
+    "data": [
+      {
+        "name": "Greek_Salad",
+        "price": 7.5
+      },
+      {
+        "name": "Seasonal",
+        "price": 5.5
+      },
+      {
+        "name": "Caesar",
+        "price": "8.5"
+      }
+    ]
+  },
+  "Cheese": {
+    "data": [
+      {
+        "name": "Tzatziki",
+        "price": 4
+      },
+      {
+        "name": "Galotyri",
+        "price": 4
+      },
+      {
+        "name": "Spicy_Cheese_Dip",
+        "price": 4
+      },
+      {
+        "name": "Feta",
+        "price": 4
+      },
+      {
+        "name": "Grilled_Feta",
+        "price": 5
+      },
+      {
+        "name": "Bougiornti",
+        "price": 6.5
+      },
+      {
+        "name": "Saganaki",
+        "price": 5
+      },
+      {
+        "name": "Halloumi",
+        "price": 5
+      },
+      {
+        "name": "Cheese_Mix_With_Bacon",
+        "price": 6.5
+      },
+      {
+        "name": "Cheese_Platter",
+        "price": "-"
+      }
+    ]
+  },
+  "Meze": {
+    "data": [
+      {
+        "name": "Bruschetta_Traditional",
+        "price": 4.5
+      },
+      {
+        "name": "French_Fries",
+        "price": 4
+      },
+      {
+        "name": "Fried_Cheese_Rolls",
+        "price": 5
+      },
+      {
+        "name": "Fried_Cheese_Rolls_With_Bacon",
+        "price": 5.5
+      },
+      {
+        "name": "Fried_Peppers",
+        "price": 4
+      },
+      {
+        "name": "Zucchini_Fritters",
+        "price": 5.5
+      },
+      {
+        "name": "Grilled_Mushrooms",
+        "price": 5.5
+      },
+      {
+        "name": "Fried_Pork",
+        "price": 6.5
+      },
+      {
+        "name": "Fried_Chicken",
+        "price": 6.5
+      },
+      {
+        "name": "Bekri_Meze",
+        "price": 7.5
+      },
+      {
+        "name": "Fried_Anchovies",
+        "price": 6
+      },
+      {
+        "name": "Fried_Calamari",
+        "price": 9
+      },
+      {
+        "name": "Bruschetta_With_Sardines",
+        "price": 5.5
+      },
+      {
+        "name": "Meat_Platter",
+        "price": 15
+      },
+      {
+        "name": "Lamb_Chops",
+        "val": "0.5kg",
+        "price": 15
+      },
+      {
+        "name": "Lamb_Chops",
+        "val": "1kg",
+        "price": 30
+      },
+      {
+        "name": "Marinated_Anchovies",
+        "price": 8
+      },
+      {
+        "name": "Grilled_shrimp",
+        "price": 11
+      },
+      {
+        "name": "Octopus_Xidato",
+        "price": 11
+      }
+    ]
+  },
+  "Soft_Drinks": {
+    "data": [
+      {
+        "name": "Water",
+        "val": "1lt",
+        "price": 1.5
+      },
+      {
+        "name": "Sparkling_Water",
+        "price": 3
+      },
+      {
+        "name": "Lemonade",
+        "price": 2.5
+      },
+      {
+        "name": "Orangeade",
+        "price": 2.5
+      },
+      {
+        "name": "Orangeade_Blue",
+        "price": 2.5
+      },
+      {
+        "name": "Sprite",
+        "price": 2.5
+      },
+      {
+        "name": "Coca_Cola",
+        "price": 2.5
+      },
+      {
+        "name": "Coca_Cola_Zero",
+        "price": 2.5
+      }
+    ]
+  },
+  "Tsipouro": {
+    "data": [
+      {
+        "name": "Tyrnavos",
+        "val": "50ml",
+        "price": 3
+      },
+      {
+        "name": "Tyrnavos",
+        "val": "200ml",
+        "price": 10
+      },
+      {
+        "name": "Tyrnavos_Aged",
+        "val": "100ml",
+        "price": 9
+      },
+      {
+        "name": "Kalaitzi",
+        "val": "50ml",
+        "price": 3
+      },
+      {
+        "name": "Kalaitzi",
+        "val": "200ml",
+        "price": 10
+      },
+      {
+        "name": "Hedoniko",
+        "val": "50ml",
+        "price": 3
+      },
+      {
+        "name": "Zervas",
+        "val": "Glass",
+        "price": 3
+      },
+      {
+        "name": "Zervas",
+        "val": "100ml",
+        "price": 5
+      }
+    ]
+  },
+  "Beer": {
+    "data": [
+      {
+        "name": "Amstel",
+        "price": 3.5
+      },
+      {
+        "name": "Alpha",
+        "val": "330ml",
+        "price": 3.5
+      },
+      {
+        "name": "Heineken",
+        "val": "330ml",
+        "price": 3.5
+      },
+      {
+        "name": "Kaiser",
+        "val": "330ml",
+        "price": 3.5
+      },
+      {
+        "name": "Mamos",
+        "val": "330ml",
+        "price": 3.5
+      },
+      {
+        "name": "Alpha_0",
+        "val": "330ml",
+        "price": 3.5
+      },
+      {
+        "name": "Radler",
+        "val": "330ml",
+        "price": 3.5
+      }
+    ]
+  },
+  "White_Wines": {
+    "data": [
+      {
+        "name": "Moscato_Tyrnavos_Semi_Dry",
+        "val": "Glass",
+        "price": 3
+      },
+      {
+        "name": "Magic_Box_Dry",
+        "val": "Glass",
+        "price": 3
+      },
+      {
+        "name": "Magic_Box_Dry",
+        "val": "500ml",
+        "price": 7
+      },
+      {
+        "name": "Rodoino_Semi_Sweet",
+        "val": "187ml",
+        "price": 5
+      },
+      {
+        "name": "Nemea_Moschofilero_Dry",
+        "val": "187ml",
+        "price": 5
+      },
+      {
+        "name": "Retsina_Malamatina",
+        "val": "250ml",
+        "price": 3.5
+      },
+      {
+        "name": "Retsina_Malamatina",
+        "val": "500ml",
+        "price": 4.5
+      }
+    ]
+  },
+  "Rose_Wines": {
+    "data": [
+      {
+        "name": "Zervas",
+        "val": "Glass",
+        "price": 3
+      },
+      {
+        "name": "Zervas",
+        "val": "500ml",
+        "price": 7
+      },
+      {
+        "name": "Tyrnavos_Semi_Sweet",
+        "val": "187ml",
+        "price": 5
+      }
+    ]
+  },
+  "Red_Wines": {
+    "data": [
+      {
+        "name": "Magic_Box_Dry",
+        "val": "Glass",
+        "price": 3
+      },
+      {
+        "name": "Magic_Box_Dry",
+        "val": "500ml",
+        "price": 7
+      },
+      {
+        "name": "Tyrnavos_Syrah_Dry",
+        "val": "187ml",
+        "price": 5
+      },
+      {
+        "name": "Nemea_Agiorgitiko_Dry",
+        "val": "187ml",
+        "price": 5
+      }
+    ]
+  }
+}
