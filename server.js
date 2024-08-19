@@ -54,9 +54,6 @@ app.post('/data', (req, res) => {
 
 });
 
-app.get('/menuEdit', (req, res) => {
-    res.sendFile(path.join(__dirname, 'menuEditor', 'index.html'));
-});
 
 app.get('/images/:path', (req, res) => {
     let imgPath = req.params.path
@@ -69,10 +66,6 @@ app.get('/images/:path', (req, res) => {
     }
 });
 
-
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'index.html'));
-});
 
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);

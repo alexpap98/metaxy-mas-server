@@ -1,344 +1,501 @@
 {
   "Salad": {
+    "en": "Σαλάτες",
+    "gr": "Salads",
     "data": [
       {
         "name": "Greek_Salad",
-        "price": 7.5
+        "price": 7.5,
+        "en": "Greek Salad",
+        "gr": "Χωριάτικη Σαλάτα"
       },
       {
         "name": "Seasonal",
-        "price": 5.5
+        "price": 5.5,
+        "en": "Seasonal",
+        "gr": "Εποχιακή"
       },
       {
         "name": "Caesar",
-        "price": "8.5"
+        "price": 8.5,
+        "en": "Caesar",
+        "gr": "Καίσαρα"
       }
     ]
   },
   "Cheese": {
+    "en": "Cheeses",
+    "gr": "Τυριά",
     "data": [
       {
         "name": "Tzatziki",
-        "price": 4
+        "price": 4,
+        "en": "Tzatziki",
+        "gr": "Τζατζίκι"
       },
       {
         "name": "Galotyri",
-        "price": 4
+        "price": 4,
+        "en": "Galotyri",
+        "gr": "Γαλοτύρι"
       },
       {
         "name": "Spicy_Cheese_Dip",
-        "price": 4
+        "price": 4,
+        "en": "Spicy Cheese Dip",
+        "gr": "Τυροκαυτερή"
       },
       {
         "name": "Feta",
-        "price": 4
+        "price": 4,
+        "en": "Feta",
+        "gr": "Φέτα"
       },
       {
         "name": "Grilled_Feta",
-        "price": 5
+        "price": 5,
+        "en": "Grilled Feta",
+        "gr": "Ψητή Φέτα"
       },
       {
         "name": "Bougiornti",
-        "price": 6.5
+        "price": 6.5,
+        "en": "Bougiourdi",
+        "gr": "Μπουγιουρντί"
       },
       {
         "name": "Saganaki",
-        "price": 5
+        "price": 5,
+        "en": "Saganaki",
+        "gr": "Σαγανάκι"
       },
       {
         "name": "Halloumi",
-        "price": 5
+        "price": 5,
+        "en": "Halloumi",
+        "gr": "Χαλούμι"
       },
       {
         "name": "Cheese_Mix_With_Bacon",
-        "price": 6.5
+        "price": 6.5,
+        "en": "Cheese Mix with Bacon",
+        "gr": "Μιξ τυριών φούρνου με μπέικον"
       },
       {
         "name": "Cheese_Platter",
-        "price": "-"
+        "price": "-",
+        "en": "Cheese Platter",
+        "gr": "Ποικιλία Τυριών"
       }
     ]
   },
   "Meze": {
+    "en": "Appetizers",
+    "gr": "Μεζέδες",
     "data": [
       {
         "name": "Bruschetta_Traditional",
-        "price": 4.5
+        "price": 4.5,
+        "en": "Traditional Bruschetta",
+        "gr": "Μπρουσκέτα χωριάτικη"
       },
       {
         "name": "French_Fries",
-        "price": 4
+        "price": 4,
+        "en": "French Fries",
+        "gr": "Πατάτες Τηγανητές"
       },
       {
         "name": "Fried_Cheese_Rolls",
-        "price": 5
+        "price": 5,
+        "en": "Fried Cheese Rolls",
+        "gr": "Φλογέρες με φέτα"
       },
       {
         "name": "Fried_Cheese_Rolls_With_Bacon",
-        "price": 5.5
+        "price": 5.5,
+        "en": "Fried Cheese Rolls with Bacon",
+        "gr": "Φλογέρες με φέτα και μπέικον"
       },
       {
         "name": "Fried_Peppers",
-        "price": 4
+        "price": 4,
+        "en": "Fried Peppers",
+        "gr": "Τηγανητές Πιπεριές"
       },
       {
         "name": "Zucchini_Fritters",
-        "price": 5.5
+        "price": 5.5,
+        "en": "Zucchini Fritters",
+        "gr": "Κολοκυθοκεφτέδες"
       },
       {
         "name": "Grilled_Mushrooms",
-        "price": 5.5
+        "price": 5.5,
+        "en": "Grilled Mushrooms",
+        "gr": "Μανιτάρια Ψητά"
       },
       {
         "name": "Fried_Pork",
-        "price": 6.5
+        "price": 6.5,
+        "en": "Fried Pork",
+        "gr": "Τηγανιά χοιρινή"
       },
       {
         "name": "Fried_Chicken",
-        "price": 6.5
+        "price": 6.5,
+        "en": "Fried Chicken",
+        "gr": "Τηγανιά κοτόπουλο"
       },
       {
         "name": "Bekri_Meze",
-        "price": 7.5
+        "price": 7.5,
+        "en": "Bekri Meze",
+        "gr": "Μπεκρή Μεζές"
       },
       {
         "name": "Fried_Anchovies",
-        "price": 6
+        "price": 6,
+        "en": "Fried Anchovies",
+        "gr": "Γαύρος Τηγανητός"
       },
       {
         "name": "Fried_Calamari",
-        "price": 9
+        "price": 9,
+        "en": "Fried Calamari",
+        "gr": "Καλαμαράκια Τηγανητά"
       },
       {
         "name": "Bruschetta_With_Sardines",
-        "price": 5.5
+        "price": 5.5,
+        "en": "Bruschetta with Sardines",
+        "gr": "Μπρουσκέτα με Σαρδέλες"
       },
       {
         "name": "Meat_Platter",
-        "price": 15
+        "price": 15,
+        "en": "Meat Platter",
+        "gr": "Ποικιλία Κρεατικών"
       },
       {
         "name": "Lamb_Chops",
         "val": "0.5kg",
-        "price": 15
+        "price": 15,
+        "en": "Lamb Chops",
+        "gr": "Παϊδάκια Αρνίσια"
       },
       {
         "name": "Lamb_Chops",
         "val": "1kg",
-        "price": 30
+        "price": 30,
+        "en": "Lamb Chops",
+        "gr": "Παϊδάκια Αρνίσια"
       },
       {
         "name": "Marinated_Anchovies",
-        "price": 8
+        "price": 8,
+        "en": "Marinated Anchovies",
+        "gr": "Μαριναρισμένες Σαρδέλες"
       },
       {
         "name": "Grilled_shrimp",
-        "price": 11
+        "price": 11,
+        "en": "Grilled Shrimp",
+        "gr": "Γαρίδες Ψητές"
       },
       {
         "name": "Octopus_Xidato",
-        "price": 11
+        "price": 11,
+        "en": "Octopus marinated in vinegar",
+        "gr": "Χταπόδι Ξιδάτο"
       }
     ]
   },
   "Soft_Drinks": {
+    "en": "Soft Drinks",
+    "gr": "Αναψυκτικά",
     "data": [
       {
         "name": "Water",
         "val": "1lt",
-        "price": 1.5
+        "price": 1.5,
+        "en": "Water",
+        "gr": "Νερό"
       },
       {
         "name": "Sparkling_Water",
-        "price": 3
+        "price": 3,
+        "en": "Sparkling Water",
+        "gr": "Ανθρακούχο Νερό"
       },
       {
         "name": "Lemonade",
-        "price": 2.5
+        "price": 2.5,
+        "en": "Lemonade",
+        "gr": "Λεμονάδα"
       },
       {
         "name": "Orangeade",
-        "price": 2.5
+        "price": 2.5,
+        "en": "Orangeade",
+        "gr": "Πορτοκαλάδα"
       },
       {
         "name": "Orangeade_Blue",
-        "price": 2.5
+        "price": 2.5,
+        "en": "Orangeade Without Carbonation",
+        "gr": "Μπλε Πορτοκαλάδα"
       },
       {
         "name": "Sprite",
-        "price": 2.5
+        "price": 2.5,
+        "en": "Sprite",
+        "gr": "Σπράιτ"
       },
       {
         "name": "Coca_Cola",
-        "price": 2.5
+        "price": 2.5,
+        "en": "Coca Cola",
+        "gr": "Coca Cola"
       },
       {
         "name": "Coca_Cola_Zero",
-        "price": 2.5
+        "price": 2.5,
+        "en": "Coca Cola Zero",
+        "gr": "Coca Cola Zero"
       }
     ]
   },
   "Tsipouro": {
+    "en": "Tsipouro",
+    "gr": "Τσίπουρα",
     "data": [
       {
         "name": "Tyrnavos",
         "val": "50ml",
-        "price": 3
+        "price": 3,
+        "en": "Tyrnavos",
+        "gr": "Τυρνάβου"
       },
       {
         "name": "Tyrnavos",
         "val": "200ml",
-        "price": 10
+        "price": 10,
+        "en": "Tyrnavos",
+        "gr": "Τυρνάβου"
       },
       {
         "name": "Tyrnavos_Aged",
         "val": "100ml",
-        "price": 9
+        "price": 9,
+        "en": "Aged Tyrnavos",
+        "gr": "Τυρνάβου Παλαιωμένο"
       },
       {
         "name": "Kalaitzi",
         "val": "50ml",
-        "price": 3
+        "price": 3,
+        "en": "Kalaitzi",
+        "gr": "Καλαϊτζή"
       },
       {
         "name": "Kalaitzi",
         "val": "200ml",
-        "price": 10
+        "price": 10,
+        "en": "Kalaitzi",
+        "gr": "Καλαϊτζή"
       },
       {
         "name": "Hedoniko",
         "val": "50ml",
-        "price": 3
+        "price": 3,
+        "en": "Hedoniko",
+        "gr": "Ηδονικό"
       },
       {
         "name": "Zervas",
         "val": "Glass",
-        "price": 3
+        "price": 3,
+        "en": "Zervas",
+        "gr": "Ζέρβας"
       },
       {
         "name": "Zervas",
         "val": "100ml",
-        "price": 5
+        "price": 5,
+        "en": "Zervas",
+        "gr": "Ζέρβας"
       }
     ]
   },
   "Beer": {
+    "en": "Beers",
+    "gr": "Μπύρες",
     "data": [
       {
         "name": "Amstel",
-        "price": 3.5
+        "val": "330ml",
+        "price": 3.5,
+        "en": "Amstel",
+        "gr": "Άμστελ"
       },
       {
         "name": "Alpha",
         "val": "330ml",
-        "price": 3.5
+        "price": 3.5,
+        "en": "Alpha",
+        "gr": "Άλφα"
       },
       {
         "name": "Heineken",
         "val": "330ml",
-        "price": 3.5
+        "price": 3.5,
+        "en": "Heineken",
+        "gr": "Χάινεκεν"
       },
       {
         "name": "Kaiser",
         "val": "330ml",
-        "price": 3.5
+        "price": 3.5,
+        "en": "Kaiser",
+        "gr": "Κάιζερ"
       },
       {
         "name": "Mamos",
         "val": "330ml",
-        "price": 3.5
+        "price": 3.5,
+        "en": "Mamos",
+        "gr": "Μάμος"
       },
       {
         "name": "Alpha_0",
         "val": "330ml",
-        "price": 3.5
+        "price": 3.5,
+        "en": "Alpha 0",
+        "gr": "Άλφα 0"
       },
       {
         "name": "Radler",
         "val": "330ml",
-        "price": 3.5
+        "price": 3.5,
+        "en": "Radler",
+        "gr": "Ράντλερ"
       }
     ]
   },
   "White_Wines": {
+    "en": "White Wines",
+    "gr": "Κρασία Λευκά",
     "data": [
       {
         "name": "Moscato_Tyrnavos_Semi_Dry",
         "val": "Glass",
-        "price": 3
+        "price": 3,
+        "en": "Moscato Tyrnavos Semi Dry",
+        "gr": "Μοσχάτο Τυρνάβου Ημίξηρο"
       },
       {
         "name": "Magic_Box_Dry",
         "val": "Glass",
-        "price": 3
+        "price": 3,
+        "en": "Magic Box Dry",
+        "gr": "Μάτζικ Μποξ Ξηρό"
       },
       {
         "name": "Magic_Box_Dry",
         "val": "500ml",
-        "price": 7
+        "price": 7,
+        "en": "Magic Box Dry",
+        "gr": "Μάτζικ Μποξ Ξηρό"
       },
       {
         "name": "Rodoino_Semi_Sweet",
         "val": "187ml",
-        "price": 5
+        "price": 5,
+        "en": "Rodoino Semi Sweet",
+        "gr": "Ροδοινο Ημίγλυκο"
       },
       {
         "name": "Nemea_Moschofilero_Dry",
         "val": "187ml",
-        "price": 5
+        "price": 5,
+        "en": "Nemea Moschofilero Dry",
+        "gr": "Νεμέα Μοσχοφίλερο Ξηρό"
       },
       {
         "name": "Retsina_Malamatina",
         "val": "250ml",
-        "price": 3.5
+        "price": 3.5,
+        "en": "Retsina Malamatina",
+        "gr": "Ρετσίνα Μαλαματίνα"
       },
       {
         "name": "Retsina_Malamatina",
         "val": "500ml",
-        "price": 4.5
+        "price": 4.5,
+        "en": "Retsina Malamatina",
+        "gr": "Ρετσίνα Μαλαματίνα"
       }
     ]
   },
   "Rose_Wines": {
+    "en": "Rosé Wines",
+    "gr": "Κρασιά Ροζέ",
     "data": [
       {
         "name": "Zervas",
         "val": "Glass",
-        "price": 3
+        "price": 3,
+        "en": "Zervas",
+        "gr": "Ζέρβας"
       },
       {
         "name": "Zervas",
         "val": "500ml",
-        "price": 7
+        "price": 7,
+        "en": "Zervas",
+        "gr": "Ζέρβας"
       },
       {
         "name": "Tyrnavos_Semi_Sweet",
         "val": "187ml",
-        "price": 5
+        "price": 5,
+        "en": "Tyrnavos Semi Sweet",
+        "gr": "Τύρναβος Ημίγλυκο"
       }
     ]
   },
   "Red_Wines": {
+    "en": "Red Wines",
+    "gr": "Κρασιά Ερυθρά",
     "data": [
       {
         "name": "Magic_Box_Dry",
         "val": "Glass",
-        "price": 3
+        "price": 3,
+        "en": "Magic Box Dry",
+        "gr": "Μάτζικ Μποξ Ξηρό"
       },
       {
         "name": "Magic_Box_Dry",
         "val": "500ml",
-        "price": 7
+        "price": 7,
+        "en": "Magic Box Dry",
+        "gr": "Μάτζικ Μποξ Ξηρό"
       },
       {
         "name": "Tyrnavos_Syrah_Dry",
         "val": "187ml",
-        "price": 5
+        "price": 5,
+        "en": "Tyrnavos Syrah Dry",
+        "gr": "Τυρνάβου syrah ξηρό"
       },
       {
         "name": "Nemea_Agiorgitiko_Dry",
         "val": "187ml",
-        "price": 5
+        "price": 5,
+        "en": "Nemea Agiorgitiko Dry",
+        "gr": "Νεμέα Αγιωργίτικο Ξηρό"
       }
     ]
   }
